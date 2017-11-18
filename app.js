@@ -1,5 +1,5 @@
 
-particlesJS('Layer1','toppane',
+particlesJS('toppane',
   
   {
     "particles": {
